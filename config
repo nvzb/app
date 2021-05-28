@@ -10,4 +10,9 @@
     "load": "true",
     "newslink": "https://novozybkov.su/feed/yandex/",
     "versionserver": "0.1"
+    "activehome":"true",
+    "activenews":"true",
+    "activeforum":"true",
+    "activeholiday":"true",
+    "activeshops":"true",
 }
