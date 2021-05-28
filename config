@@ -1,12 +1,12 @@
 {
     "adcountpost": "3",
-    "adlink": "http://127.0.0.1:5000/getad",
+    "adlink": "https://raw.githubusercontent.com/nvzb/app/main/ads",
     "adnewsenable": "true",
     "adpost": "2",
     "adpostenable": "true",
     "appversion": "0.1",
-    "filmlink": "https://raw.githubusercontent.com/bamaliks/fakeJson/main/films.json",
-    "hompostslink": "http://127.0.0.1:5000/getрhomeposts",
+    "filmlink": "https://raw.githubusercontent.com/nvzb/app/main/films",
+    "hompostslink": "https://raw.githubusercontent.com/nvzb/app/main/homeposts",
     "load": "true",
     "newslink": "https://novozybkov.su/feed/yandex/",
     "versionserver": "0.1"
