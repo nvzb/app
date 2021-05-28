@@ -1,0 +1,13 @@
+{
+    "adcountpost": "3",
+    "adlink": "http://127.0.0.1:5000/getad",
+    "adnewsenable": "true",
+    "adpost": "2",
+    "adpostenable": "true",
+    "appversion": "0.1",
+    "filmlink": "https://raw.githubusercontent.com/bamaliks/fakeJson/main/films.json",
+    "hompostslink": "http://127.0.0.1:5000/getрhomeposts",
+    "load": "true",
+    "newslink": "https://novozybkov.su/feed/yandex/",
+    "versionserver": "0.1"
+}
