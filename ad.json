@@ -1,0 +1,16 @@
+[
+    {
+        "link": "mailto:nvz-online@yandex.ru",
+        "picture": "http://nvz-online.ucoz.pl/app/MINI.jpg",
+        "type": "ADCmini"
+    },
+    {
+        "adtext": "По всем вопросам обращайтесь на почту",
+        "contact": "Новозыбков онлайн",
+        "link": "mailto:nvz-online@yandex.ru",
+        "phone": "",
+        "picture": "http://nvz-online.ucoz.pl/app/big.jpg",
+        "title": "По всем вопросам обращайтесь на почту",
+        "type": "Card"
+    }
+]

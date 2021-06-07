@@ -1,0 +1,21 @@
+{
+    "activeforum": "false",
+    "activeholiday": "true",
+    "activehome": "true",
+    "activenews": "true",
+    "activeshops": "false",
+    "adcountpost": "1",
+    "adlink": "http://nvz-online.ucoz.pl/app/ad.json",
+    "adnewsenable": "false",
+    "adpost": "2",
+    "adpostenable": "false",
+    "appversion": "0.1",
+    "cafelink": "http://nvz-online.ucoz.pl/app/cofe.json",
+    "filmlink": "http://nvz-online.ucoz.pl/app/films.json",
+    "forceupdate": "false",
+    "hompostslink": "http://nvz-online.ucoz.pl/app/homeposts.json",
+    "load": "true",
+    "newslink": "https://novozybkov.su/feed/yandex/",
+    "updatelink": "http://bamaliks.space/",
+    "versionserver": "0.1"
+}
